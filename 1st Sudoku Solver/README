@@ -1,0 +1,13 @@
+This was my first attempt at creating a sudoku solver.
+
+During analysis, I discovered that there was more efficient way of writing my program, it turns outs there are some 
+redundant if-statements in there that can easily be replaced with some for-loops to make the program more efficient. I will do this in the next iteration of the game.
+
+From this project, I hope to build a GUI to decently present this solver. From there I hope to build a solveable-sudoku generator, and from there hopefully a fully
+functional sudoku app.
+
+For this I had to learn the backtracking algorithm, I did this by first doing some simpler backtracking problems like the N-Queens problem and the Knights tour problem,
+to teach me the basic ideas behind backtracking. Then I applied those ideas across to the sudoku solver and had a lot of fun doing so.
+
+The process of learning and implementing backtracking has not only given me a handy algorithm in my tool belt, but also has given me the framework for learning about
+algorithms and new projects in general.
